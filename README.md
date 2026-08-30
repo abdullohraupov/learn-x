@@ -1,4 +1,15 @@
 # Материалы по изучению C++, Linux и Computer Science.
+
+<div align="center">
+ 
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Language](https://img.shields.io/badge/язык-русский-white.svg)
+![Made for](https://img.shields.io/badge/для-C%2B%2B%20%26%20CS-orange.svg)
+![Stars](https://img.shields.io/github/stars/abdullohraupov/learn-cpp)
+
+</div>
+
 ---
 #### Примечания ⚠️
 Советую установить [Linux-дистрибутив](https://en.wikipedia.org/wiki/Linux_distribution) — так будет удобнее следовать этим материалам. Здесь собраны все ресурсы, которые я когда-либо смотрел, читал и использовал сам. Могу с уверенностью сказать: они стоят вашего времени.
