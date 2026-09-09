@@ -1,24 +1,27 @@
-# Материалы по изучению C++, Linux и Computer Science.
+<div align="center">
+
+<img src="resources/images/learn-x.png" width="512" alt="Learn X" style="image-rendering: pixelated;">
+</div>
 
 <div align="center">
- 
+
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Language](https://img.shields.io/badge/язык-русский-white.svg)
-![Made for](https://img.shields.io/badge/для-C%2B%2B%20%26%20CS-orange.svg)
+![Language](https://img.shields.io/badge/language-russian-white.svg)
 ![Stars](https://img.shields.io/github/stars/abdullohraupov/learn-cpp)
 
 </div>
 
 ---
 #### Примечания ⚠️
-Советую установить [Linux-дистрибутив](https://en.wikipedia.org/wiki/Linux_distribution) — так будет удобнее следовать этим материалам. Здесь собраны все ресурсы, которые я когда-либо смотрел, читал и использовал сам. Могу с уверенностью сказать: они стоят вашего времени.
+Настоятельно рекомендую установить [Linux-дистрибутив](https://en.wikipedia.org/wiki/Linux_distribution) — так будет удобнее следовать этим материалам. Здесь собраны все ресурсы, которые я когда-либо смотрел, читал и использовал сам. Могу с уверенностью сказать: они стоят вашего времени.
 
-Для этих обучающих материалов необходимо установить:
+Для обучающих материалов необходимо установить:
 - **Компилятор C++** (`clang++`, `g++`)
 - **Среда разработки** ([Zed](https://zed.dev), [CLion](https://www.jetbrains.com/ru-ru/clion/))
 
 ---
+# C++
 ## Начальный уровень 🟡
 
 #### Видеоуроки по C++ от [#SimpleCode (Сергей Журавльёв)](https://www.youtube.com/@SimpleCodeIT) — [Основы C++. Программирование для начинающих.](https://youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&si=zM10ZeJnpXWMGh-A)
@@ -55,7 +58,9 @@
 
 </details>
 
-## Компьютерное железо и архитектура 🖥️
+# Компьютерное железо и архитектура 🖥️
+
+## Начальный уровень 🟡
 
 #### Видеоурок по полупроводниковому транзистору от [Физика с Юрием Ткачёвым](https://www.youtube.com/@physiovisio) — [Магия транзисторов: как мы научили компьютеры думать с помощью кусочков кремния?](https://youtu.be/_5W_GZOPa8E?si=QQGU2XCNmuWZChcY)
 Объясняет, как из отдельных транзисторов строятся базовые логические элементы (И, ИЛИ, НЕ и т.д.), и как из них, шаг за шагом, вырастает вычислительная схема.
@@ -73,7 +78,7 @@
 ## Материалы от сообщества 🫂
 > [!NOTE]
 > Материалы в этом разделе присылают другие люди — сам их не проверял и не могу поручиться за качество так же, как за остальные пункты списка. Пользуйтесь на свой страх и риск, но не стесняйтесь предлагать!
- 
+
 Пока нет :/
 
 ---
