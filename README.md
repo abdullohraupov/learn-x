@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="resources/images/learn-x.png" width="512" alt="Learn X" style="image-rendering: pixelated;">
+
 </div>
 
 <div align="center">
@@ -93,8 +94,8 @@
 ---
 
 <div align="center">
-  
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.ru.html#license-text)
+
+<img src="resources/images/GPLv3_Logo.svg" width="256" alt="GNU GPLv3 Image">
 
 **_Распространяется на условиях лицензии **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.ru.html#license-text)**, описанных в [LICENSE](LICENSE)._**
 
