@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="resources/images/learn-x.png" width="512" alt="Learn X" style="image-rendering: pixelated;">
+[<img src="resources/images/learn-x.png" width="512" alt="" style="image-rendering: pixelated;">](https://github.com/abdullohraupov/learn-x/)
 
 </div>
 
 <div align="center">
 
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Language](https://img.shields.io/badge/language-russian-white.svg)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/abdullohraupov/learn-x/pulls)
+[![Language](https://img.shields.io/badge/language-russian-white.svg)](https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA)
 ![Stars](https://img.shields.io/github/stars/abdullohraupov/learn-cpp)
 
 </div>
@@ -95,8 +95,8 @@
 
 <div align="center">
 
-<img src="resources/images/GPLv3_Logo.svg" width="256" alt="GNU GPLv3 Image">
+[<img src="resources/images/GPLv3_Logo.svg" width="256" alt="GNU GPLv3 Image">](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
 
-**_Распространяется на условиях лицензии **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.ru.html#license-text)**, описанных в [LICENSE](LICENSE)._**
+**_Распространяется на условиях лицензии **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html#license-text)**, описанных в [LICENSE](LICENSE)._**
 
 </div>
